@@ -1,2 +1,3 @@
-# 100DaysOfStudy
-Мой прогресс в 100DaysOfStudy Challenge
+# 100 Days Of Study
+Мой прогресс в 100-Days-Of-Study Challenge
+(My 100-Days-Of-Study Challenge progress)
