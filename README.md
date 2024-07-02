@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+41/100| 02.07. | - | _Postcard collection_: доработала readme, дописала отображение записи "Спасибо за отзыв" после отправки формы на сайте (jQuery). ✔️ Сделала свой readme профиля на GitHub | [Чердачок](https://github.com/the-all-spark/postcards-calendars-collection) | [Иконки-1](https://www.w3schools.com/charsets/ref_emoji_smileys.asp),  [Иконки-2](https://simpleicons.org/), [Оформление профиля](https://habr.com/ru/articles/649363/)
 40/100| 01.07. | - | Сделала кнопку "Up" для плавного прокручивания страницы вверх (а также при клике на лого сайта); обновила readme файлы для проекта на RU и EN | [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | -
 39/100| 30.06. | - | _To Do List_: исправила ошибку в отображении статистики. _Workbook_: подключила медиа-запросы для адаптивной верстки | [To Do List](https://github.com/the-all-spark/to-do-list-app), [Workbook](https://the-all-spark.github.io/workbook/) | -
 38/100| 29.06. | - | _To Do List_: добавила функцию удаления элементов при клике на корзину, пересчет статистики; доработала readme файл (RU, EN). _Workbook_: Доработала readme файл (RU, EN) | [To Do List](https://github.com/the-all-spark/to-do-list-app), [Workbook](https://the-all-spark.github.io/workbook/) | -
