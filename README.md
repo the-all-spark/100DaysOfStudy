@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+46/100| 07.07. | - | Начала адаптировать и загружать проект с днями рождений в публичный репо | [Birthdates book](https://github.com/the-all-spark/birthdates_book) | 
 45/100| 06.07. | Прошла удаленный репозиторий в тренажере по Git | - | - | [Тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU&NODEMO=)
 44/100| 05.07. | Работа с тегами, псевдонимы в Git (alias), конспект по Git. Основы Node.js | - | - | [Конспект по Git](https://www.evernote.com/shard/s368/client/snv?noteGuid=b1359883-2b9e-419a-b9de-dd959fc05f05&noteKey=97c0f19486d851b3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2Fb1359883-2b9e-419a-b9de-dd959fc05f05%2F97c0f19486d851b3&title=Git)
 43/100| 04.07. | Прошла частично тренажер по Git | - | - | [Тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU&NODEMO=)
