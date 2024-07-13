@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+52/100| 13.07. | Прочитала разделы  JavaScript Object Properties / Methods / Display/ Constructors, JavaScript Events (intro), JavaScript String (intro) на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
 51/100| 12.07. | Прочитала разделы  JavaScript - Functions (основы, введение), JavaScript - Objects (основы, введение) на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
 50/100| 11.07. | Прочитала разделы JavaScript - Variables, Let, Const & Data Types, JavaScript - Operators, Assignment, Arithmetic на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
 49/100| 10.07. | Прошла еще одну продвинутую задачку в тренажере по Git; Прочитала раздел "JavaScript - Introduction" на w3schools.com | Добавила кнопку перехода на следующий месяц, написала функцию | [Birthdates book](https://github.com/the-all-spark/birthdates_book) | [Тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU&NODEMO=), [JS / w3schools.com](https://www.w3schools.com/)
