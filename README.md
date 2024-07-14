@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+53/100| 14.07. | Прочитала разделы JavaScript Basic String Methods, JavaScript String Search на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
 52/100| 13.07. | Прочитала разделы  JavaScript Object Properties / Methods / Display/ Constructors, JavaScript Events (intro), JavaScript String (intro) на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
 51/100| 12.07. | Прочитала разделы  JavaScript - Functions (основы, введение), JavaScript - Objects (основы, введение) на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
 50/100| 11.07. | Прочитала разделы JavaScript - Variables, Let, Const & Data Types, JavaScript - Operators, Assignment, Arithmetic на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
