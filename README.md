@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+56/100| 25.07. | Продолжила уроки и упражнения по HTML на w3schools | - | - | [HTML / w3schools.com](https://www.w3schools.com/)
 55/100| 16.07., 24.07. | Прочитала раздел JavaScript Numbers - Bigint на w3schools.com; пролистала уроки по HTML там же (+упражнения) | - | - | [JS / w3schools.com](https://www.w3schools.com/), [HTML / w3schools.com](https://www.w3schools.com/)
 54/100| 15.07. | Прочитала разделы JavaScript Template Strings, JavaScript Numbers (intro) на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
 53/100| 14.07. | Прочитала разделы JavaScript Basic String Methods, JavaScript String Search на w3schools.com | - | - | [JS / w3schools.com](https://www.w3schools.com/)
