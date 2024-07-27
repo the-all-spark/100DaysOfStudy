@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+58/100| 27.07. | Введение в Интернет (теория с заданиями) | Установила и настроила несколько расширений в VSCode | - | [Введение в Интернет](https://webref.ru/course/introduction)
 57/100| 26.07. | Image Maps на w3schools | [Краткий конспект по HTML](https://codepen.io/Lisovolk/pen/GRbjjar), [Image Maps](https://codepen.io/Lisovolk/pen/NWZbqgY) | - | [HTML / w3schools.com](https://www.w3schools.com/)
 56/100| 25.07. | Продолжила уроки и упражнения по HTML на w3schools | [Краткий конспект по HTML](https://codepen.io/Lisovolk/pen/GRbjjar) | - | [HTML / w3schools.com](https://www.w3schools.com/)
 55/100| 16.07., 24.07. | Прочитала раздел JavaScript Numbers - Bigint на w3schools.com; пролистала уроки по HTML там же (+упражнения) | - | - | [JS / w3schools.com](https://www.w3schools.com/), [HTML / w3schools.com](https://www.w3schools.com/)
