@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+63/100| 1.08. | CSS на w3schools | Подкорректировала информацию в профиле на GitHub | [My GitHub](https://github.com/the-all-spark) | [CSS / w3schools.com](https://www.w3schools.com/)
 62/100| 31.07. | CSS на w3schools | Функции, которые собирают строки кода для ссылки-якоря и заголовка секции по имени id, тексту ссылки и тегу. - [см. в Codepen](https://codepen.io/Lisovolk/pen/bGPgQZZ). Создала репозиторий для дипломного проекта, написала readme на русском и английском; добавила проект на главную страницу профиля на GitHub | [3d-artkarta](https://github.com/the-all-spark/3d-artkarta_info) | [CSS / w3schools.com](https://www.w3schools.com/)
 61/100| 30.07. | HTML Tables, Lists на w3schools | Функции для упрощения ведения конспекта: стилизацию тега для вставки в текст и выделение цветом фрагмента кода - [см. в Codepen](https://codepen.io/Lisovolk/pen/xxogGEe) | - | [HTML / w3schools.com](https://www.w3schools.com/)
 60/100| 29.07. | Темы по HTML на w3schools | Функция, которая принимает строку, а возвращает элемент со всеми необходимыми заменами - [см. в Codepen](https://codepen.io/Lisovolk/pen/xxogGEe) | - | [HTML / w3schools.com](https://www.w3schools.com/)
