@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+66/100| 4.08. | Копирование текста при клике на кнопку (JS), передача данных из формы (JS) | Приложение по маскировке текста, копирование текста при клике на кнопку; добавила приложение на страницу профиля на GitHub | [hide_letters_app](https://github.com/the-all-spark/hide_letters_app) | [writeText() - скопировать в буфер](https://learnjs.ru/lessons/writetext/)
 65/100| 3.08. | HTML на w3schools (Forms) | - | - | [HTML / w3schools.com](https://www.w3schools.com/)
 64/100| 2.08. | CSS на w3schools | - | - | [CSS / w3schools.com](https://www.w3schools.com/)
 63/100| 1.08. | CSS на w3schools | Подкорректировала информацию в профиле на GitHub | [My GitHub](https://github.com/the-all-spark) | [CSS / w3schools.com](https://www.w3schools.com/)
