@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+77/100| 16.08. | CSS на w3schools | Исправила отображение формы обратной связи на странице; добавила сообщение после ее отправки. | [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [CSS / w3schools.com](https://www.w3schools.com/)
 76/100| 15.08. | CSS на w3schools | Дописала функцию проверки выведенного результата, чтобы опрос можно было проходить множество раз без перезагрузки всей страницы. Исправила стили для отображения на странице анимации | [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [CSS / w3schools.com](https://www.w3schools.com/)
 75/100| 14.08. | CSS на w3schools | - | - | [CSS / w3schools.com](https://www.w3schools.com/)
 74/100| 13.08. | - | Добавила кнопку перезагрузки блока с опросом (пока без действия)  | [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | -
