@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+80/100| 20.08. | - | Добавла обработчик события на кнопку закрытия текста-опроса | [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | -
 79/100| 19.08. | CSS и Git на w3schools | - | - | [CSS, Git / w3schools.com](https://www.w3schools.com/)
 78/100| 18.08. | CSS на w3schools | Добавила запрет на отправку опроса (неактивная кнопка, предупреждение), пока не выбран хотя бы 1 пункт (работает и после перезагрузки опроса). Обновила readme | [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [CSS / w3schools.com](https://www.w3schools.com/)
 77/100| 16.08. | CSS на w3schools | Исправила отображение формы обратной связи на странице; добавила сообщение после ее отправки. | [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [CSS / w3schools.com](https://www.w3schools.com/)
