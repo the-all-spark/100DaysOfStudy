@@ -11,6 +11,7 @@
 
 День  |  Дата  |        Теория       |            Практика           |            Проект (ссылка)            |           Ссылки на материалы            | 
 :----:|:------:|---------------------|-------------------------------|---------------------------------------|------------------------------------------|
+91/100| 4.09. | - | hide_letters_app: добавила адаптивную верстку; construct_anchor_links_app: подкорректировала адаптивную верстку; rp_location_schemes: подкорректировала js чтобы прятать все выделения и инф-цию при наведении на пункт из списка | [hide_letters_app](https://github.com/the-all-spark/hide_letters_app), [construct_anchor_links_app](https://github.com/the-all-spark/construct_anchor_links_app), [rp_location_schemes](https://github.com/the-all-spark/rp_location_schemes) | -
 90/100| 3.09. | - | Корректировала выделение объектов и вывод информации о них при клике на объект из списка и при клике на объект на карте | [rp_location_schemes](https://github.com/the-all-spark/rp_location_schemes) | -
 89/100| 2.09. | - | При клике на объект иконка "i" скрывается (и появляется информация). Когда скрывается информация, появляется иконка | [rp_location_schemes](https://github.com/the-all-spark/rp_location_schemes) | -
 88/100| 1.09. | - | Добавила на страницу вводный текст, подкорректировала логотип | [rp_location_schemes](https://github.com/the-all-spark/rp_location_schemes) | -
